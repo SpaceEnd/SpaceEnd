@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpaceEnd
-- 👀 I’m interested in web developmenr
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JS, Css, Html, and Python
 
 <!---
