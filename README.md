@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceEnd
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JS, Css, Html, and Python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JS, CSS, HTML, and Python
 
 <!---
 SpaceEnd/SpaceEnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
